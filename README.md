@@ -176,7 +176,7 @@ Este projeto está licenciado sob a **MIT License**.
 
 ## 👨‍💻 **Autores**
 
-- **Mayron Janiel** - Desenvolvimento Backend
+- **Mayron Janiel e João Ryan** - Desenvolvimento Backend
 
 ---
 
