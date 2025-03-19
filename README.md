@@ -1,7 +1,3 @@
-Claro! Aqui está um exemplo de um `README.md` mais estilizado usando Markdown e um layout mais clean, ideal para um projeto no GitHub. Você pode usar o seguinte modelo com alguns ajustes para combinar com o estilo desejado:
-
----
-
 # 🗳️ **CoopVote** - Sistema de Votação Cooperativa
 
 ### Uma solução para gerenciar e participar de sessões de votação em assembleias de cooperativas.
@@ -186,8 +182,4 @@ Este projeto está licenciado sob a **MIT License**.
 
 ## 🎨 **Design do Projeto**
 
-- **Responsável pelo design:** [Seu Nome]
-
----
-
-Esse `README.md` possui uma estrutura mais visualmente agradável e organizada, destacando as funcionalidades e como rodar o projeto. Você pode incluir mais detalhes sobre a arquitetura ou outras funcionalidades, dependendo da necessidade.
+- **Responsável pelo design:** [Mayron]
