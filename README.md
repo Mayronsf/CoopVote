@@ -19,11 +19,6 @@ O **CoopVote** é uma plataforma desenvolvida para gerenciar sessões de votaç�
 
 ## 🚀 **Como Executar o Projeto**
 
-### 🔧 **Pré-requisitos**
-
-- **Java 17+**
-- **Maven**
-
 ### 🏃 **Passos para rodar a aplicação localmente**
 
 1. **Clone o repositório**:
