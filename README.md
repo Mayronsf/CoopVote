@@ -1,4 +1,5 @@
-# 🗳️ **CoopVote** - Sistema de Votação Cooperativa - (Projeto em Desenvolvimento)
+# 🗳️ **CoopVote** - Sistema de Votação Cooperativa 
+🪧 (Projeto em Desenvolvimento)
 
 ### Uma solução para gerenciar e participar de sessões de votação em assembleias de cooperativas.
 
