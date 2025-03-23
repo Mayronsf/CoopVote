@@ -1,4 +1,4 @@
-# 🗳️ **CoopVote** - Sistema de Votação Cooperativa
+# 🗳️ **CoopVote** - Sistema de Votação Cooperativa - (Projeto em Desenvolvimento)
 
 ### Uma solução para gerenciar e participar de sessões de votação em assembleias de cooperativas.
 
@@ -123,16 +123,6 @@ Utilizamos **JUnit** para garantir a qualidade e robustez da aplicação.
   ```bash
   mvn test
   ```
-
----
-
-## 🌍 **Tecnologias Usadas**
-
-- **Spring Boot**: Framework principal.
-- **JPA/H2**: Para persistência de dados.
-- **Swagger**: Para documentação da API.
-- **JUnit**: Testes automatizados.
-
 ---
 
 ## 🎯 **Tarefas Bônus**
